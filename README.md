@@ -10,6 +10,12 @@ Use yarn only
 - `yarn install` in root,
 - `yarn install` for the CRA App inside packages too.
 
+## Run
+
+go to /packages/your-CRA-App,
+yarn serve | yarn build,
+like you usually do.
+
 ## Storybook
 
 For component GUI
